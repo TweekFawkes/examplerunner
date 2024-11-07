@@ -1,0 +1,10 @@
+runner:
+  build:
+    - location: https://github.com/TweekFawkes/examplerunner/001/
+  
+  # Assume one input that will be optionally passed to the app.py as a command line argument
+
+  run:
+    - name: app.py
+
+  # Assume stdout and stderr outputs
