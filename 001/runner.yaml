@@ -1,0 +1,7 @@
+inputs:
+  - name: input1
+    description: Example input 1
+    type: text
+    default: "default value"
+
+run: app.py
