@@ -1,0 +1,6 @@
+inputs:
+  - name: input1
+    prompt: Example input 1
+    type: text
+
+run: app.py input1
