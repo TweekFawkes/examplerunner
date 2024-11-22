@@ -3,4 +3,8 @@ inputs:
     prompt: Example input 1
     type: text
 
-run: app.py input1
+launch:
+  program: app.py
+  args:
+    - '--input'
+    - '${input1}'
