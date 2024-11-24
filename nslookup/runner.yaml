@@ -1,0 +1,10 @@
+inputs:
+  - name: domain_name
+    prompt: domain_name
+    type: text
+
+launch:
+  program: app.py
+  args:
+    - '--domain_name'
+    - '${domain_name}'
