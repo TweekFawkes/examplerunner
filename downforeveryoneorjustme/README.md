@@ -2,4 +2,4 @@
 
 Check if a website or app is down for everyone or just you.
 
-https://github.com/TweekFawkes/downforeveryoneorjustme/
+https://github.com/TweekFawkes/examplerunner/downforeveryoneorjustme/
