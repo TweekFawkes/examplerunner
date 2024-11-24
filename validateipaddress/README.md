@@ -1,3 +1,3 @@
-# Down for Everyone or Just Me 
+# Validate IP Address
 
 Check if a website or app is down for everyone or just you.
