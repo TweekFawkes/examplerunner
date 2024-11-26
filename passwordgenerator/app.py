@@ -12,7 +12,7 @@ import argparse
 # [*] Creator Defined Environment Variables:
 # SOMETHING=value
 
-def load_wordlist(filename='eff_large_wordlist_002.txt'):
+def load_wordlist(filename='wordlist_eff_large.txt'):
     try:
         with open(filename, 'r') as file:
             # Read words, strip whitespace, and filter out empty lines
@@ -25,7 +25,7 @@ def load_wordlist(filename='eff_large_wordlist_002.txt'):
 
 def generate_password(seed=None):
     # Load words from file
-    words = load_wordlist('eff_large_wordlist_002.txt')
+    words = load_wordlist('wordlist_eff_large.txt')
     
     # Define separators
     separators = ['!', '@', '$', '%', '^', '&', '*', '-', '_', '+', '=', ':', '|', '~', '?', '/', '.', ';']
@@ -58,7 +58,7 @@ def generate_password(seed=None):
 
 def generate_simple_password(seed=None):
     # Load words from file
-    words = load_wordlist('eff_large_wordlist_002.txt')
+    words = load_wordlist('wordlist_eff_large.txt')
     
     # Select 3 random words using secrets and alternate case
     selected_words = []

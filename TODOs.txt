@@ -1,30 +1,30 @@
 
 ### GOOD ###
 
-Example Ion Runner
-This ion runner prints out all of the arguments passed to it with addition stdout / stderr outputs for testing. It also prints out all of the environment variables that are available to it.
+- Example Ion Runner
+https://github.com/TweekFawkes/examplerunner/examplerunner/
 
-Down for Everyone or Just Me
-Check if a website or app is down for everyone or just you.
+- Down for Everyone or Just Me
+https://github.com/TweekFawkes/examplerunner/downforeveryoneorjustme/
 
-Resolve To IP Address(es)
-Resolve To IP Address(es).
+- Password Generator
+https://github.com/TweekFawkes/examplerunner/passwordgenerator/
+
+- Resolve To IP Address(es)
+-- TODO: redeploy
+https://github.com/TweekFawkes/examplerunner/resolvetoipaddresses/
 
 
 ### TODO ###
 
+- DNS Lookup
+-- TODO: requirements.txt
+https://github.com/TweekFawkes/examplerunner/dnslookup/
 
-DNS Lookup
-Query the Domain Name System (DNS) to obtain DNS records.
-TODO: requirements.txt
-
-Validate IP Address
-Check if a website or app is down for everyone or just you.
-TODO: requirements.txt
+- Validate IP Address
+-- TODO: requirements.txt
+https://github.com/TweekFawkes/examplerunner/validateipaddress/
 
 
 ### ~~~ ###
-
-
-
 

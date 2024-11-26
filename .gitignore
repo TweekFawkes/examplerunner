@@ -3,6 +3,9 @@
 .devcontainer
 .github
 
+z_someday/
+z_someday002/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
