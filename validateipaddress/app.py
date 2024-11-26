@@ -10,21 +10,21 @@ def load_ip_lists():
     cloudproviders = []
     
     # Load denylist
-    with open('validateipaddress/denylistips.txt', 'r') as f:
+    with open('denylistips.txt', 'r') as f:
         for line in f:
             if line.strip() and not line.startswith('#'):
                 cidr, *comment = line.split('#', 1)
                 denylists.append(cidr.strip())
 
     # Load allowlist
-    with open('validateipaddress/allowlistips.txt', 'r') as f:
+    with open('allowlistips.txt', 'r') as f:
         for line in f:
             if line.strip() and not line.startswith('#'):
                 cidr, *comment = line.split('#', 1)
                 allowlists.append(cidr.strip())
                 
     # Load cloud providers list
-    with open('validateipaddress/cloudproviderslist.txt', 'r') as f:
+    with open('cloudproviderslist.txt', 'r') as f:
         for line in f:
             if line.strip() and not line.startswith('#'):
                 cidr, *comment = line.split('#', 1)
