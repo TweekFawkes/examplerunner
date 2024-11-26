@@ -1,3 +1,0 @@
-# IP Geolocation Finder
-
-TODO

@@ -8,6 +8,8 @@ z_someday002/
 
 z_extras/
 
+ipgeolocationfinder/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
