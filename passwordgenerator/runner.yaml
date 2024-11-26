@@ -1,0 +1,10 @@
+inputs:
+  - name: input1
+    prompt: Example input 1
+    type: text
+
+launch:
+  program: app.py
+  args:
+    - '--input'
+    - '${input1}'

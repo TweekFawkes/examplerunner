@@ -1,0 +1,30 @@
+
+### GOOD ###
+
+Example Ion Runner
+This ion runner prints out all of the arguments passed to it with addition stdout / stderr outputs for testing. It also prints out all of the environment variables that are available to it.
+
+Down for Everyone or Just Me
+Check if a website or app is down for everyone or just you.
+
+Resolve To IP Address(es)
+Resolve To IP Address(es).
+
+
+### TODO ###
+
+
+DNS Lookup
+Query the Domain Name System (DNS) to obtain DNS records.
+TODO: requirements.txt
+
+Validate IP Address
+Check if a website or app is down for everyone or just you.
+TODO: requirements.txt
+
+
+### ~~~ ###
+
+
+
+
