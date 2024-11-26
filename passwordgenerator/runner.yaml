@@ -1,10 +1,10 @@
 inputs:
-  - name: input1
-    prompt: Example input 1
+  - name: random_chars
+    prompt: Seed Input with Random Chars
     type: text
 
 launch:
   program: app.py
   args:
-    - '--input'
-    - '${input1}'
+    - '--random_chars'
+    - '${random_chars}'

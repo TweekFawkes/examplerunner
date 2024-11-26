@@ -2,6 +2,7 @@ import sys
 from datetime import datetime
 import os
 import secrets
+import argparse
 
 # [*] Default Environment Variables:
 # PWD=/tmp/msmowz/20241121173033774104/001
@@ -22,7 +23,7 @@ def load_wordlist(filename='eff_large_wordlist_002.txt'):
                 'Table', 'Chair', 'Cloud', 'River', 'Mountain', 'Ocean', 'Forest', 'Desert', 'Storm',
                 'Dusk', 'Arrive', 'Cuba', 'Wrote', 'Length', 'Friday', 'Pattern', 'Surprise', 'Shown']
 
-def generate_password():
+def generate_password(seed=None):
     # Load words from file
     words = load_wordlist('eff_large_wordlist_002.txt')
     
@@ -55,7 +56,7 @@ def generate_password():
     
     return password
 
-def generate_simple_password():
+def generate_simple_password(seed=None):
     # Load words from file
     words = load_wordlist('eff_large_wordlist_002.txt')
     
@@ -80,16 +81,31 @@ def generate_simple_password():
     
     return password
 
+def setup_argparse():
+    parser = argparse.ArgumentParser(description='Password Generator')
+    parser.add_argument('--random_chars', type=str, help='Random characters to seed the generator')
+    return parser.parse_args()
+
+def get_entropy_from_chars(chars):
+    # Combine provided chars with current timestamp for entropy
+    entropy = chars + str(datetime.now().timestamp())
+    return abs(hash(entropy))
+
 def main():
+    args = setup_argparse()
+    
+    # Use random chars if provided, otherwise no seeding
+    seed = get_entropy_from_chars(args.random_chars) if args.random_chars else None
+    
     # Generate and print 3 passwords
     print("\n[*] Generated Passwords:")
     for i in range(3):
-        print(f"[*] Password {i+1}: {generate_password()}")
+        print(f"[*] Password {i+1}: {generate_password(seed)}")
     
     # Generate and print 3 simple passwords
     print("\n[*] Generated Simple Passwords (no special characters):")
     for i in range(3):
-        print(f"[*] Simple Password {i+1}: {generate_simple_password()}")
+        print(f"[*] Simple Password {i+1}: {generate_simple_password(seed)}")
     
 if __name__ == "__main__":
     main()
