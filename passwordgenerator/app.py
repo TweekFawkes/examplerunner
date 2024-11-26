@@ -81,6 +81,14 @@ def generate_simple_password(seed=None):
     
     return password
 
+def generate_antihacker_password(seed=None):
+    # Start with a regular complex password
+    base_password = generate_password(seed)
+    
+    # Add a comma and random number of spaces (1-3)
+    num_spaces = secrets.randbelow(3) + 1  # generates 1, 2, or 3
+    return f"{base_password}," + " " * num_spaces
+
 def setup_argparse():
     parser = argparse.ArgumentParser(description='Password Generator')
     parser.add_argument('--random_chars', type=str, help='Random characters to seed the generator')
@@ -107,5 +115,10 @@ def main():
     for i in range(3):
         print(f"[*] Simple Password {i+1}: {generate_simple_password(seed)}")
     
+    # Generate and print 3 anti-hacker passwords
+    print("\n[*] Generated Anti-Hacker Passwords (with trailing comma+spaces):")
+    for i in range(3):
+        print(f"[*] Anti-Hacker Password {i+1}: {generate_antihacker_password(seed)}")
+
 if __name__ == "__main__":
     main()
