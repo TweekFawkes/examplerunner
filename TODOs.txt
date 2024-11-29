@@ -13,12 +13,20 @@ https://github.com/TweekFawkes/examplerunner/passwordgenerator/
 - Resolve To IP Address(es)
 https://github.com/TweekFawkes/examplerunner/resolvetoipaddresses/
 
+- DNS Lookup
+https://github.com/TweekFawkes/examplerunner/dnslookup/
+
+- Access Key ID To Account ID Number
+https://github.com/TweekFawkes/runner_accesskeyidtoaccountid.git
+
+- Clean YouTube URL
+https://github.com/TweekFawkes/runner_cleanyoutubeurl.git
+
+https://github.com/TweekFawkes/runner_cleantiktokurl.git
+
 
 ### TODO ###
 
-- DNS Lookup
--- TODO: requirements.txt
-https://github.com/TweekFawkes/examplerunner/dnslookup/
 
 - Validate IP Address
 -- TODO: requirements.txt
@@ -26,7 +34,26 @@ https://github.com/TweekFawkes/examplerunner/validateipaddress/
 
 - IP Geolocation Finder
 -- TODO: requirements.txt
-https://github.com/TweekFawkes/runner_ipgeolocationfinder/
+https://github.com/TweekFawkes/runner_ipgeolocationfinder.git
+
+- WhoAmi w/o CloudTrail Logs
+TODO: fix bug ? <bw: "aws iam user john_doe 476114121484">
+https://github.com/TweekFawkes/runner_whomaiwithoutcloudtrail.git
+
+
+
+### ~~~ ###
+
+
+runner_cleantiktokurl
+
+runner_dnslookup
+runner_downforeveryoneorjustme
+runner_example
+runner_passwordgenerator
+runner_resolvetoipaddresses
+runner_tlscertificatechecker
+runner_validateipaddress
 
 
 ### ~~~ ###
