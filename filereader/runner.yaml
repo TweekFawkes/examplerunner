@@ -1,0 +1,9 @@
+inputs:
+  - name: input1
+    prompt: File to read
+    type: file
+
+launch:
+  program: app.py
+  args:
+    - '${input1}'
