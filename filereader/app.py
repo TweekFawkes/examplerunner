@@ -4,7 +4,7 @@ import os
 
 def main():
     file = sys.argv[1]
-    print(f"Reading file: {file}")
+    print(f"Reading the file: {file}")
 
 if __name__ == "__main__":
     main()
