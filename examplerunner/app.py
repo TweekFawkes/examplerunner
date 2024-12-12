@@ -10,6 +10,8 @@ import os
 # [*] Creator Defined Environment Variables:
 # SOMETHING=value
 
+# ben made a change
+
 def main():
     # Echo command line arguments if any exist
     if len(sys.argv) > 1:
