@@ -1,9 +1,12 @@
-inputs:
+runner:
+  title: File Reader
+  description: Testing of file upload feature
+  version: 0.0.1
+
+webform:
   - name: input1
     prompt: File to read
     type: file
 
 launch:
-  program: app.py
-  args:
-    - '${input1}'
+  command: app.py ${input1}

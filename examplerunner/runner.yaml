@@ -1,10 +1,14 @@
-inputs:
+runner:
+  title: Example Ion Runner
+  description: |
+    This ion runner prints out all of the arguments passed to it with addition stdout / stderr outputs for testing. 
+    It also prints out all of the environment variables that are available to it.
+  version: 0.0.1
+
+webform:
   - name: input1
     prompt: Example input 1
     type: text
 
 launch:
-  program: app.py
-  args:
-    - '--input'
-    - '${input1}'
+  command: app.py --input ${input1}
