@@ -1,6 +1,6 @@
 # Example Runners for Gammaxon SuperHighway.Run
 
-Example Runners for Gammaxon SuperHighway.Run
+Runners for Gammaxon SuperHighway.Run
 
 ---
 
