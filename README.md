@@ -11,4 +11,10 @@ Working Example Runners for SuperHighway.Run include:
 
 Work in Progress:
 - runner_cleantiktokurl ( https://github.com/TweekFawkes/runner_cleantiktokurl/ )
-
+- runner_dnslookup
+		- [ ] runner_downforeveryoneorjustme
+		- [ ] runner_filereader
+		- [ ] runner_passwordgenerator
+		- [ ] runner_resolvetoipaddresses
+		- [ ] runner_tlscertificatechecker
+		- [ ] runner_validateipaddress
