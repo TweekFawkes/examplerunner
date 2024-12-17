@@ -1,6 +1,6 @@
-# Example Runners for SuperHighway.Run
+# Example Runners for Gammaxon SuperHighway.Run
 
-Working Example Runners for SuperHighway.Run include:
+Working Example Runners for Gammaxon SuperHighway.Run include:
 - runner_example ( https://github.com/TweekFawkes/runner_example/ )
 - runner_tailored ( https://github.com/TweekFawkes/runner_tailored/ )
 - runner_cleanyoutubeurl ( https://github.com/TweekFawkes/runner_cleanyoutubeurl/ )
