@@ -1,5 +1,5 @@
 runner:
-  title: File Reader
+  name: File Reader
   description: Testing of file upload feature
   version: 0.0.1
 

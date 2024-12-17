@@ -1,5 +1,5 @@
 runner:
-  title: Resolve to IP Addresses
+  name: Resolve to IP Addresses
   description: A Python utility that resolves domain names to their corresponding IP addresses, supporting both IPv4 and IPv6. The tool accepts domain names or URLs as input and displays all unique IP addresses associated with the given domain.
   version: 0.0.1
 
