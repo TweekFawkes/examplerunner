@@ -5,8 +5,8 @@ Runners for Gammaxon SuperHighway.Run
 ---
 
 Examples:
-- runner_example ( https://github.com/TweekFawkes/runner_example/ )
-- runner_tailored ( https://github.com/TweekFawkes/runner_tailored/ )
+- runner_example ( https://github.com/TweekFawkes/runner_example )
+- runner_tailored ( https://github.com/TweekFawkes/runner_tailored )
 - runner_filereader ( https://github.com/TweekFawkes/runner_filereader )
 
 ---
@@ -28,18 +28,18 @@ Network:
 ---
 
 OSINT:
-- runner_ipgeolocationfinder ( https://github.com/TweekFawkes/runner_ipgeolocationfinder/ )
+- runner_ipgeolocationfinder ( https://github.com/TweekFawkes/runner_ipgeolocationfinder )
 
 ---
 
 AWS:
-- runner_accesskeyidtoaccountid ( https://github.com/TweekFawkes/runner_accesskeyidtoaccountid/ )
-- runner_whomaiwithoutcloudtrail ( https://github.com/TweekFawkes/runner_whomaiwithoutcloudtrail/ )
+- runner_accesskeyidtoaccountid ( https://github.com/TweekFawkes/runner_accesskeyidtoaccountid )
+- runner_whomaiwithoutcloudtrail ( https://github.com/TweekFawkes/runner_whomaiwithoutcloudtrail )
 
 ---
 
 Privacy:
-- runner_cleanyoutubeurl ( https://github.com/TweekFawkes/runner_cleanyoutubeurl/ )
+- runner_cleanyoutubeurl ( https://github.com/TweekFawkes/runner_cleanyoutubeurl )
 
 ---
 
@@ -50,6 +50,6 @@ Security:
 ---
 
 Work in Progress:
-- runner_cleantiktokurl ( https://github.com/TweekFawkes/runner_cleantiktokurl/ )
+- runner_cleantiktokurl ( https://github.com/TweekFawkes/runner_cleantiktokurl )
 
 ---
