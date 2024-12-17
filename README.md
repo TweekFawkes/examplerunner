@@ -10,10 +10,10 @@ Working Example Runners for Gammaxon SuperHighway.Run include:
 
 Work in Progress:
 - runner_cleantiktokurl ( https://github.com/TweekFawkes/runner_cleantiktokurl/ )
-- runner_dnslookup
-- runner_downforeveryoneorjustme
-- runner_filereader
-- runner_passwordgenerator
-- runner_resolvetoipaddresses
-- runner_tlscertificatechecker
-- runner_validateipaddress
+- runner_dnslookup ( https://github.com/TweekFawkes/runner_dnslookup )
+- runner_downforeveryoneorjustme ( https://github.com/TweekFawkes/runner_downforeveryoneorjustme )
+- runner_filereader ( https://github.com/TweekFawkes/runner_filereader )
+- runner_passwordgenerator ( https://github.com/TweekFawkes/runner_passwordgenerator )
+- runner_resolvetoipaddresses ( https://github.com/TweekFawkes/runner_resolvetoipaddresses  )
+- runner_tlscertificatechecker ( https://github.com/TweekFawkes/runner_tlscertificatechecker ) 
+- runner_validateipaddress ( https://github.com/TweekFawkes/runner_validateipaddress )
