@@ -39,24 +39,19 @@ AWS:
 ---
 
 Privacy:
-- Clean YouTube URL
-  - https://github.com/TweekFawkes/runner_cleanyoutubeurl
+- Clean YouTube URL ( https://github.com/TweekFawkes/runner_cleanyoutubeurl )
 
 ---
 
 Security:
-- TLS Certificate Checker
-  - https://github.com/TweekFawkes/runner_tlscertificatechecker
-- Password Generator
-  - https://github.com/TweekFawkes/runner_passwordgenerator
+- TLS Certificate Checker ( https://github.com/TweekFawkes/runner_tlscertificatechecker )
+- Password Generator ( https://github.com/TweekFawkes/runner_passwordgenerator )
 
 ---
 
 Images:
-- Remove Image Background
-  - https://github.com/TweekFawkes/runner_removeimagebackground
-- Animated WebP to Animated GIF Converter
-  - https://github.com/TweekFawkes/runner_webptoanimatedgif
+- Remove Image Background ( https://github.com/TweekFawkes/runner_removeimagebackground )
+- Animated WebP to Animated GIF Converter ( https://github.com/TweekFawkes/runner_webptoanimatedgif )
 
 ---
 
