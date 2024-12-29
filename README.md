@@ -5,36 +5,36 @@ Runners for Gammaxon SuperHighway.Run
 ---
 
 Examples:
-- runner_example ( https://github.com/TweekFawkes/runner_example )
-- runner_tailored ( https://github.com/TweekFawkes/runner_tailored )
-- runner_filereader ( https://github.com/TweekFawkes/runner_filereader )
+- Example Ion Runner ( https://github.com/TweekFawkes/runner_example )
+- Example Tailored Ion Runner ( https://github.com/TweekFawkes/runner_tailored )
+- Example File Reader Runner ( https://github.com/TweekFawkes/runner_filereader )
 
 ---
 
 Web App:
-- runner_downforeveryoneorjustme ( https://github.com/TweekFawkes/runner_downforeveryoneorjustme )
+- Down For Everyone Or Just Me ( https://github.com/TweekFawkes/runner_downforeveryoneorjustme )
 
 ---
 
 DNS:
-- runner_dnslookup ( https://github.com/TweekFawkes/runner_dnslookup )
-- runner_resolvetoipaddresses ( https://github.com/TweekFawkes/runner_resolvetoipaddresses  )
+- DNS Lookup ( https://github.com/TweekFawkes/runner_dnslookup )
+- Resolve Domain Name To IPs ( https://github.com/TweekFawkes/runner_resolvetoipaddresses  )
 
 ---
 
 Network:
-- runner_validateipaddress ( https://github.com/TweekFawkes/runner_validateipaddress )
+- Validate IP Address ( https://github.com/TweekFawkes/runner_validateipaddress )
 
 ---
 
 OSINT:
-- runner_ipgeolocationfinder ( https://github.com/TweekFawkes/runner_ipgeolocationfinder )
+- IP Geolocation Finder ( https://github.com/TweekFawkes/runner_ipgeolocationfinder )
 
 ---
 
 AWS:
-- runner_accesskeyidtoaccountid ( https://github.com/TweekFawkes/runner_accesskeyidtoaccountid )
-- runner_whomaiwithoutcloudtrail ( https://github.com/TweekFawkes/runner_whomaiwithoutcloudtrail )
+- Access Key ID To Account ID ( https://github.com/TweekFawkes/runner_accesskeyidtoaccountid )
+- WhoAmi w/o CloudTrail Logs ( https://github.com/TweekFawkes/runner_whomaiwithoutcloudtrail )
 
 ---
 
@@ -61,6 +61,6 @@ Images:
 ---
 
 Work in Progress:
-- runner_cleantiktokurl ( https://github.com/TweekFawkes/runner_cleantiktokurl )
+- Clean TikTok URL ( https://github.com/TweekFawkes/runner_cleantiktokurl )
 
 ---
