@@ -49,6 +49,11 @@ Security:
 
 ---
 
+Images:
+- runner_removeimagebackground ( https://github.com/TweekFawkes/runner_removeimagebackground )
+
+---
+
 Work in Progress:
 - runner_cleantiktokurl ( https://github.com/TweekFawkes/runner_cleantiktokurl )
 
