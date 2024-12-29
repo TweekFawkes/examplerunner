@@ -39,13 +39,16 @@ AWS:
 ---
 
 Privacy:
-- runner_cleanyoutubeurl ( https://github.com/TweekFawkes/runner_cleanyoutubeurl )
+- Clean YouTube URL
+  - https://github.com/TweekFawkes/runner_cleanyoutubeurl
 
 ---
 
 Security:
-- runner_tlscertificatechecker ( https://github.com/TweekFawkes/runner_tlscertificatechecker )
-- runner_passwordgenerator ( https://github.com/TweekFawkes/runner_passwordgenerator )
+- TLS Certificate Checker
+  - https://github.com/TweekFawkes/runner_tlscertificatechecker
+- Password Generator
+  - https://github.com/TweekFawkes/runner_passwordgenerator
 
 ---
 
