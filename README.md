@@ -52,7 +52,6 @@ Security:
 Images:
 - runner_removeimagebackground ( https://github.com/TweekFawkes/runner_removeimagebackground )
 - Animated WebP to Animated GIF Converter
-  - runner_webptoanimatedgif
   - https://github.com/TweekFawkes/runner_webptoanimatedgif
 
 ---
