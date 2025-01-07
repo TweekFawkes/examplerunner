@@ -24,10 +24,11 @@ DNS:
 
 Network:
 - Validate IP Address ( https://github.com/TweekFawkes/runner_validateipaddress )
-- Scan OS Ver Script Traceroute ( https://github.com/TweekFawkes/runner_osverscripttrace ) gloomba 
+- Scan OS Ver Script Traceroute ( https://github.com/TweekFawkes/runner_osverscripttrace ) gloomba, koopatroopa
 - Scan Script Vuln ( https://github.com/TweekFawkes/runner_scanvulns ) paragloomba
 - Scan Script Vulners ( https://github.com/TweekFawkes/runner_scanvulners ) spikygloomba
 - Scan Script VulScan ( https://github.com/TweekFawkes/runner_scanvul ) 
+- Scan Script Safe ( https://github.com/TweekFawkes/runner_scansafe ) paratroopa
 
 ---
 
@@ -56,7 +57,7 @@ Security:
 Images:
 - Remove Image Background ( https://github.com/TweekFawkes/runner_removeimagebackground )
 - Animated WebP to Animated GIF Converter ( https://github.com/TweekFawkes/runner_webptoanimatedgif )
-- Image Metadata EXIF ( TODO )
+- Image Metadata EXIF ( https://github.com/TweekFawkes/runner_imagemetadataexif )
 
 ---
 
@@ -66,9 +67,7 @@ Work in Progress:
 ---
 
 Duplicate:
-- koopatroopa // /usr/bin/nmap -Pn -n -sV -sC -p {port} --reason {selector} // duplicate with -A
 
-paratroopa // /usr/bin/nmap -Pn -n -sV --script safe -p {port} --reason {selector}
 
 ---
 
