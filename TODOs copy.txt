@@ -1,0 +1,33 @@
+
+### GOOD ###
+
+- Example Ion Runner
+https://github.com/TweekFawkes/runner_example/
+
+- Down for Everyone or Just Me
+https://github.com/TweekFawkes/examplerunner/downforeveryoneorjustme/
+
+- Password Generator
+https://github.com/TweekFawkes/examplerunner/passwordgenerator/
+
+- Resolve To IP Address(es)
+https://github.com/TweekFawkes/examplerunner/resolvetoipaddresses/
+
+
+### TODO ###
+
+- DNS Lookup
+-- TODO: requirements.txt
+https://github.com/TweekFawkes/examplerunner/dnslookup/
+
+- Validate IP Address
+-- TODO: requirements.txt
+https://github.com/TweekFawkes/examplerunner/validateipaddress/
+
+- IP Geolocation Finder
+-- TODO: requirements.txt
+https://github.com/TweekFawkes/runner_ipgeolocationfinder/
+
+
+### ~~~ ###
+

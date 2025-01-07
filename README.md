@@ -24,6 +24,10 @@ DNS:
 
 Network:
 - Validate IP Address ( https://github.com/TweekFawkes/runner_validateipaddress )
+- Scan OS Ver Script Traceroute ( https://github.com/TweekFawkes/runner_osverscripttrace ) gloomba 
+- Scan Script Vuln ( https://github.com/TweekFawkes/runner_scanvulns ) paragloomba
+- Scan Script Vulners ( https://github.com/TweekFawkes/runner_scanvulners ) spikygloomba
+- Scan Script VulScan ( https://github.com/TweekFawkes/runner_scanvul ) 
 
 ---
 
@@ -52,10 +56,46 @@ Security:
 Images:
 - Remove Image Background ( https://github.com/TweekFawkes/runner_removeimagebackground )
 - Animated WebP to Animated GIF Converter ( https://github.com/TweekFawkes/runner_webptoanimatedgif )
+- Image Metadata EXIF ( TODO )
 
 ---
 
 Work in Progress:
 - Clean TikTok URL ( https://github.com/TweekFawkes/runner_cleantiktokurl )
+
+---
+
+Duplicate:
+- koopatroopa // /usr/bin/nmap -Pn -n -sV -sC -p {port} --reason {selector} // duplicate with -A
+
+paratroopa // /usr/bin/nmap -Pn -n -sV --script safe -p {port} --reason {selector}
+
+---
+
+
+
+
+
+arantula
+badgebandit
+bandit
+bigbandit
+chainchomp
+chainchomp.zip
+chainchomplet
+chainchomplet.zip
+crazeedayzee
+
+goomboard
+hypergoomba
+hyperparagoomba
+
+paragoomba
+
+pider
+redchomp
+
+spikygoomba
+wizzerd
 
 ---
