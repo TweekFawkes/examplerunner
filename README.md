@@ -1,6 +1,7 @@
 # Example Runners for Gammaxon SuperHighway.Run
 
 Runners for Gammaxon SuperHighway.Run
+- Documentation v0.0.6: https://www.canva.com/design/DAGblObg-PU/16Q_VwWh5zP4UDlDPEo3eg/view
 
 ---
 
@@ -13,6 +14,10 @@ Examples:
 
 Web App:
 - Down For Everyone Or Just Me ( https://github.com/TweekFawkes/runner_downforeveryoneorjustme )
+- Web Crawler ( https://github.com/TweekFawkes/runner_webcrawler ) bigbandit
+- Web Crawler Headless ( https://github.com/TweekFawkes/runner_webcrawlerheadless ) arantula pider
+- WAF Detect ( https://github.com/TweekFawkes/runner_wafdetect ) bandit wafw00f
+- What is that Website ( https://github.com/TweekFawkes/runner_whatisthatwebsite ) hyperparagoomba // whatweb -a 3
 
 ---
 
@@ -29,6 +34,7 @@ Network:
 - Scan Script Vulners ( https://github.com/TweekFawkes/runner_scanvulners ) spikygloomba
 - Scan Script VulScan ( https://github.com/TweekFawkes/runner_scanvul ) 
 - Scan Script Safe ( https://github.com/TweekFawkes/runner_scansafe ) paratroopa
+- Detect Service of TCP Port ( https://github.com/TweekFawkes/runner_detectservice ) spikygoomba
 
 ---
 
@@ -63,38 +69,14 @@ Images:
 
 Work in Progress:
 - Clean TikTok URL ( https://github.com/TweekFawkes/runner_cleantiktokurl )
-
----
-
-Duplicate:
-
-
----
-
-
-
-
-
-arantula
-badgebandit
-bandit
-bigbandit
-chainchomp
-chainchomp.zip
-chainchomplet
-chainchomplet.zip
-crazeedayzee
-
-goomboard
-hypergoomba
-hyperparagoomba
-
-paragoomba
-
-pider
-redchomp
-
-spikygoomba
-wizzerd
+- paragoomba // tailored service discovery
+- goomboard // tailoried baseline web app
+- redchomp // tailored random URIs
+- wizzerd // tailoried content discovery
+- hypergoomba // -a 1
+- crazeedayzee // fan out
+- chainchomp // tailoried content discovery with SQS
+- chainchomplet // tailoried content discovery with SQS
+- badgebandit // zapspiderscan
 
 ---
