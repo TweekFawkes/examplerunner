@@ -70,6 +70,7 @@ Images:
 
 Work in Progress:
 - Clean TikTok URL ( https://github.com/TweekFawkes/runner_cleantiktokurl )
+
 - paragoomba // tailored service discovery
 - goomboard // tailoried baseline web app
 - redchomp // tailored random URIs
@@ -79,5 +80,9 @@ Work in Progress:
 - chainchomp // tailoried content discovery with SQS
 - chainchomplet // tailoried content discovery with SQS
 - badgebandit // zapspiderscan
+
+- https://github.com/TweekFawkes/runner_markitdown
+- https://github.com/TweekFawkes/runner_amass.git
+
 
 ---
