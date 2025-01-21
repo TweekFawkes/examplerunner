@@ -1,6 +1,7 @@
 # Example Runners for Gammaxon SuperHighway.Run
 
 Runners for Gammaxon SuperHighway.Run
+- Documentation v0.0.7: https://www.canva.com/design/DAGcnR_17OY/yC1mqPsP35C06oiwie-4fw/view
 - Documentation v0.0.6: https://www.canva.com/design/DAGblObg-PU/16Q_VwWh5zP4UDlDPEo3eg/view
 
 ---
@@ -69,6 +70,7 @@ Images:
 
 Work in Progress:
 - Clean TikTok URL ( https://github.com/TweekFawkes/runner_cleantiktokurl )
+
 - paragoomba // tailored service discovery
 - goomboard // tailoried baseline web app
 - redchomp // tailored random URIs
@@ -78,6 +80,10 @@ Work in Progress:
 - chainchomp // tailoried content discovery with SQS
 - chainchomplet // tailoried content discovery with SQS
 - badgebandit // zapspiderscan
+
+- https://github.com/TweekFawkes/runner_markitdown
+- https://github.com/TweekFawkes/runner_amass.git
+
 
 ---
 
